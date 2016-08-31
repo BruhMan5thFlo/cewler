@@ -1,7 +1,8 @@
 # cewler
-Automates cewl and rsmangler tools. See https://github.com/digininja for more info
+Automates and combines cewl and rsmangler tools in one script. 
+    (See https://github.com/digininja for more info)
 
-    usage: bash cewler target.com
+    Usage: cewler.sh <target-site-url>
 
 Will prompt you to run rsmangler which is optional - permutations is off for speed (and to not crush memory).
 
